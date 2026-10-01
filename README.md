@@ -70,8 +70,4 @@ To become an **AI Engineer with a strong product and design mindset**, building 
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Mtgazer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mtgazer&icon=0&color=0)
-
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
