@@ -37,7 +37,6 @@ To become an **AI Engineer with a strong product and design mindset**, building 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@ebrahimkhalil-mt)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ebrahimmmkh@gmail.com)
 
-## 💻 Tech Stack
 
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
